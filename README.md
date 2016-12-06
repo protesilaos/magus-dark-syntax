@@ -20,6 +20,6 @@ apm install magus-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/magus](http://www.protesilaos.com/magus)
+Project page: [https://protesilaos.com/magus](https://protesilaos.com/magus)
 
 Magus light version: [https://atom.io/themes/magus-syntax](https://atom.io/themes/magus-syntax)
