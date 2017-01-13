@@ -1,14 +1,21 @@
 # Magus syntax theme (dark version)
 
-*Magus* is a medium contrast theme. It was originally developed as an alternative style for the redesign of my website, with the intention to enhance legibility while using a pleasant, 16-colour palette.
+A warm, medium contrast theme. Its most prevalent colours are variants of orange, red, green, cyan, and yellow.
 
-## Screenshot
+*Magus* comes in standalone light and dark versions (see further info below).
 
-![magus dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/magus/img/magus_dark_sample.png)
+## Screenshots
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![magus dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/magus/img/magus_dark_html.png)
+
+![magus dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/magus/img/magus_dark_scss.png)
+
+![magus dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/magus/img/magus_dark_js.png)
+
+![magus dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/magus/img/magus_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
